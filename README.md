@@ -4,12 +4,12 @@ Bienvenue !
 
 Dans ce repository, vous trouverez le contenu de mon cours Programmation Objet: Concept Avancée que j'ai eu cette année.
 Le cours prenant la forme de devoir maison chaque semaine, le contenu des devoirs entier a été rédigé par moi-même.
-Bien sur, j'ai également l'autorisation des enseignants de diffuser les exercices du devoir maisons.
+Bien sûr, j'ai également l'autorisation des enseignants de diffuser les exercices du devoir maisons.
 Chaque devoir est entièrement sourcé que ça soit dans les réponses ou dans les questions et vous trouverez également dans la section `Bibliographie`, d'excellente référence pour la lecture dont certaines sont disponibles au bureaux.
 
-Le contenu est plus orientée développement back-end et devOps mais j'espère que tout le monde pourra y trouver son compte que cela soit pour réviser ou pour progresser :)
+Le contenu est plus orienté développement Back-end et devOps mais j'espère que tout le monde pourra y trouver son compte que cela soit pour réviser ou pour progresser :)
 
-/!\ DISCLAIMER : J'ai peut-être eu 20 à la matière mais cela ne veut pas dire que je suis infaillible, donc tout feedback est bien évidemment le bienvenue !
+/!\ DISCLAIMER /!\ : J'ai peut-être eu 20 à la matière (merci à l'équipe IT de Pitchy) mais cela ne veut pas dire que je suis infaillible, donc tout feedback est bien évidemment le bienvenue ! 
 
 Contenu: 
 
