@@ -14,8 +14,8 @@ Le contenu est plus orienté développement Back-end et devOps mais j'espère qu
 Contenu: 
 
 - Cours 1: Introduction, c'est quoi le métier de développeur ?
-- DM1 : Découverte de typescript et de Git
-- DM2 : Promesses, migration de données et design patterns
+- DM1 : Découverte/Rappel de typescript et de Git
+- DM2 : Promesses & Système réactifs, migration de données et design patterns
 - DM3 : Outils, documentation et Typescript: Class, Interface & Type
 - DM4 : Mise en situation, Test-Driven Development et Injection de dépendance
 - DM5 : Domain-Driven Design – partie 1
