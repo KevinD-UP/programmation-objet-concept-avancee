@@ -3,7 +3,7 @@
 Bienvenue !
 
 Dans ce repository, vous trouverez le contenu de mon cours Programmation Objet: Concept Avancée que j'ai eu cette année.
-Le cours prenant la forme de devoir maison chaque semaine, le contenu des devoirs entier a été rédigé par moi-même.
+Le cours prenant la forme de devoir maison chaque semaine, le contenu des devoirs entiers a été rédigé par moi-même.
 Bien sûr, j'ai également l'autorisation des enseignants de diffuser les exercices du devoir maisons.
 Chaque devoir est entièrement sourcé que ça soit dans les réponses ou dans les questions et vous trouverez également dans la section `Bibliographie`, d'excellente référence pour la lecture dont certaines sont disponibles au bureaux.
 
